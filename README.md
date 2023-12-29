@@ -6,7 +6,7 @@ Welcome to the Tic-Tac-Toe game, a classic two-player game built using HTML, CSS
 
 ## 🕹️ Play the Game
 
-Experience the thrill of Tic-Tac-Toe by playing it live on [Tic-Tac-Toe App](https://maviakazi.github.io/Tic-Tac-Toe/) (Add your live app link here).
+Experience the thrill of Tic-Tac-Toe by playing it live on [Tic-Tac-Toe App](https://maviakazi.github.io/Tic-Tac-Toe/).
 
 ## 🧩 Game Features
 
